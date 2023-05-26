@@ -27,4 +27,7 @@ Express and if-env
 ![Screenshot4](./client/src/images/appStorage.png)
 
 ## Credit
-
+- https://webpack.js.org/guides/progressive-web-application/ 
+- https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide 
+- https://devcenter.heroku.com/articles/troubleshooting-node-deploys
+- https://devcenter.heroku.com/articles/nodejs-support#specifying-a-node-js-version 
