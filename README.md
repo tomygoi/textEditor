@@ -15,16 +15,16 @@ This is a PWA containing a simple text editor that highlights javascript syntax
 - Run `npm run install` to install client and server packages 
 ## Usage 
 - Run `npm start`
-- View deployed portfolio [here]()
-
+- View deployed application [here](https://tomygoi-jate.herokuapp.com/)
 ## Frameworks
 Node JS 
-
 ## Dependencies
-
+Express and if-env
 ## Screenshots 
 ![Screenshot1]()
 ![Screenshot2]()
+![Screenshot3]()
+![Screenshot4]()
 
 ## Credit
 
